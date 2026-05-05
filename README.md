@@ -1,1 +1,2 @@
-The code for DG-SHDR is currently being organized and will be released soon.
+# Guided LDR Generation for Single-Image HDR Reconstruction  Using Degradation Priors from Multi-Exposure Images
+
