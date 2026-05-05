@@ -16,3 +16,9 @@ conda create -n env_name python=3.8
 pip install -r requirements.txt
 ```
 
+## Training and evaluation
+### Training
+```bash
+pyhton mian1.py
+```
+
