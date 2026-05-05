@@ -9,6 +9,10 @@
 ```bash
 git clone https://github.com/gguoshun/DG-SHDR.git
 cd DG-SHDR
-
+```
 ### 2. Setup the environment
+```bash
+conda create -n env_name python=3.8
+pip install -r requirements.txt
+```
 
