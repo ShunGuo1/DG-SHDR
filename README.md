@@ -21,4 +21,8 @@ pip install -r requirements.txt
 ```bash
 pyhton mian1.py
 ```
-
+### Testing
+To generate the final hdr images, run the following command:
+```bash
+python test.py --load 2
+```
