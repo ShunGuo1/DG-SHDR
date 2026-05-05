@@ -9,3 +9,6 @@
 ```bash
 git clone https://github.com/gguoshun/DG-SHDR.git
 cd DG-SHDR
+
+### 2. Setup the environment
+
