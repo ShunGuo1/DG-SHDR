@@ -12,7 +12,7 @@ cd DG-SHDR
 ```
 ### 2. Setup the environment
 ```bash
-conda create -n env_name python=3.8
+conda create -n DG-SHDR python=3.8
 pip install -r requirements.txt
 ```
 
