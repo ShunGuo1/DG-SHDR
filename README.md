@@ -17,10 +17,10 @@ pip install -r requirements.txt
 ```
 
 ## 📦 Prepare pretrained models
-| Dataset | Model | Link | Password |
-|:-------:|:-----:|:----:|:--------:|
-| P19 | 33.7290_38.6980.pth | [Link](https://pan.baidu.com/s/1L2YJfBsk92Dud40wezKPgA) | `c55j` |
-| challenge123 | 26.9278_38.9864.pth | [Link](https://pan.baidu.com/s/1uWHob_QnbXLFNUrAWSnDWw) | `rczh` |
+| Dataset | Link | Password |
+|:-------:|:----:|:--------:|
+| P19 | [Link](https://pan.baidu.com/s/1L2YJfBsk92Dud40wezKPgA) | `c55j` |
+| challenge123 | [Link](https://pan.baidu.com/s/1uWHob_QnbXLFNUrAWSnDWw) | `rczh` |
 ## 🏋️ Dataset
 | Dataset | Link | Password |
 |:-------:|:----:|:--------:|
