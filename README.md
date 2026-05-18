@@ -16,6 +16,13 @@ conda create -n DG-SHDR python=3.8
 pip install -r requirements.txt
 ```
 
+## 📦 Prepare pretrained models
+
+## 🏋️ Dataset
+| Dataset | Link | Password |
+|:-------:|:----:|:--------:|
+| challenge123 | [Link](https://pan.baidu.com/s/1A54sa8bZ_HJBjT4g0fP0xg?pwd=d63v) | `d63v` |
+
 ## Training and evaluation
 ### Training
 ```bash
