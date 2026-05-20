@@ -23,13 +23,7 @@ pip install -r requirements.txt
 |:-------:|:----:|:--------:|
 | challenge123 | [Link](https://pan.baidu.com/s/1A54sa8bZ_HJBjT4g0fP0xg?pwd=d63v) | `d63v` |
 
-## Pretrained Weights
 
-| Dataset | Model | Link | Password |
-|:-------:|:-----:|:----:|:--------:|
-| P19 | 33.7290_38.6980.pth | [Link](https://pan.baidu.com/s/1L2YJfBsk92Dud40wezKPgA) | `c55j` |
-| challenge123 | 26.9278_38.9864.pth | [Link](https://pan.baidu.com/s/1uWHob_QnbXLFNUrAWSnDWw) | `rczh` |
----
 
 ## Training and evaluation
 ### Training
