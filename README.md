@@ -26,6 +26,9 @@ pip install -r requirements.txt
 
 
 ## Training and evaluation
+### data preprocess
+Before starting training, you can choose to use **data_preprocess.py** to preprocess the dataset so that it fits our dataset loading method. Alternatively, you may use your own dataset as needed.
+
 ### Training
 ```bash
 pyhton mian1.py
