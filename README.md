@@ -22,6 +22,8 @@ pip install -r requirements.txt
 | Dataset | Link | Password |
 |:-------:|:----:|:--------:|
 | challenge123 | [Link](https://pan.baidu.com/s/1A54sa8bZ_HJBjT4g0fP0xg?pwd=d63v) | `d63v` |
+| our dataset | [Link](https://pan.baidu.com/s/1eR08fOuLep3eIVSq9vEpBw?pwd=gcq3) | `gcq3` |
+
 
 
 
